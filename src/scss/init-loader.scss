@@ -1,0 +1,7 @@
+// -------------------------------------------------------------
+//  Permet d'ajouter les variables et les mixins, doit etre integrer à tous les composants.
+// -------------------------------------------------------------
+@forward "./variables.scss";
+@forward "@stephane888/wbu-atomique/scss/_variables.scss";
+@forward "@stephane888/wbu-atomique/scss/defaut/model/custom_bp.scss";
+@forward "@stephane888/wbu-atomique/scss/defaut/mixins/components.scss";
